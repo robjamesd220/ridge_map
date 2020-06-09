@@ -59,7 +59,7 @@ class RidgeMap:
     Keeps state around so no servers are hit too often.
     """
 
-    def __init__(self, bbox=(-209.561325, -23.408139, -209.350525, -23.281456), font=None):
+    def __init__(self, bbox=(150.474930,-23.390129,150.595093,-23.327740), font=None):
         """Initialize RidgeMap.
 
         Parameters
